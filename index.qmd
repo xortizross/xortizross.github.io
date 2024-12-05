@@ -1,11 +1,11 @@
 ---
-title: "xortizross.github.io"
+title: "Xochitl Ortiz Ross"
 ---
 
-This is a Quarto website.
+Hi there! 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Xochitl (pronounced só-chill). I am a Ph.D. candidate in the Ecology and Evolutionary Biology department at UCLA in the [Blumstein Lab](https://blumsteinlab.eeb.ucla.edu). I am a behavioral ecologist studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out [my latest paper](https://onlinelibrary.wiley.com/doi/10.1111/ele.14485)).
 
-```{r}
-1 + 1
-```
+## 🚧 Work in progress, come back later! 🚧
+
+![AI generated image](images/DALL·E 2024-12-04 18.18.16 - A whimsical illustration of a yellow-bellied marmot standing near a roadblock on a mountain road. The marmot has its characteristic yellowish belly, g.webp){fig-alt="An illustration featuring a yellow-bellied marmot near a roadblock in a scenic mountain environment."}
