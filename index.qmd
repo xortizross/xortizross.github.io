@@ -1,11 +1,43 @@
 ---
-title: "Xochitl Ortiz Ross"
+title: "Hi there! 👋"
+image: images/headshot2.jpg
+toc: false
+about:
+  template: marquee
+  image-width: 40em
+  links:
+    - text: Email
+      href: mailto:xortizross@g.ucla.edu
+      icon: envelope-fill
+    - text: X-twitter
+      href: https://x.com/xortizross
+      icon: twitter-x
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/xochitl-ortiz-ross/
+      icon: linkedin
+    - text: GitHub
+      href: https://github.com/xortizross
+      icon: github
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Xochitl-Ross
+    - text: GoogleScholar
+      href: https://scholar.google.com/citations?user=QbgA53gAAAAJ&hl=en&oi=ao
 ---
 
-Hi there! 👋
+My name is Xochitl (pronounced só-chill). I am a Ph.D. candidate in the [Blumstein Lab](https://blumsteinlab.eeb.ucla.edu). I am a behavioral ecologist studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out [my latest paper](https://onlinelibrary.wiley.com/doi/10.1111/ele.14485)).
 
-My name is Xochitl (pronounced só-chill). I am a Ph.D. candidate in the Ecology and Evolutionary Biology department at UCLA in the [Blumstein Lab](https://blumsteinlab.eeb.ucla.edu). I am a behavioral ecologist studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out [my latest paper](https://onlinelibrary.wiley.com/doi/10.1111/ele.14485)).
+## Education
+
+**University of California, Los Angeles** \| Los Angeles, CA
+
+PhD candidate in Ecology and Evolutionary Biology \| expected June 2026
+
+**College of the Atlantic** \| Bar Harbor, ME
+
+B.A in Human Ecology \| Sept 2014 - June 2018
+
+## Research
 
 ## 🚧 Work in progress, come back later! 🚧
 
-![AI generated image](images/DALL·E 2024-12-04 18.18.16 - A whimsical illustration of a yellow-bellied marmot standing near a roadblock on a mountain road. The marmot has its characteristic yellowish belly, g.webp){fig-alt="An illustration featuring a yellow-bellied marmot near a roadblock in a scenic mountain environment."}
+![AI-generated image](images/DALL·E%202024-12-04%2018.18.16%20-%20A%20whimsical%20illustration%20of%20a%20yellow-bellied%20marmot%20standing%20near%20a%20roadblock%20on%20a%20mountain%20road.%20The%20marmot%20has%20its%20characteristic%20yellowish%20belly,%20g.webp){fig-alt="An illustration featuring a yellow-bellied marmot near a roadblock in a scenic mountain environment." width="250mm"}

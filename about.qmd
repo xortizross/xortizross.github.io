@@ -1,9 +1,28 @@
 ---
 title: "About"
+image: images/headshot1.jpg
+toc: false
+about:
+  template: jolla
+  links:
+    - text: Email
+      href: mailto:xortizross@g.ucla.edu
+      icon: envelope-fill
+    - text: X-twitter
+      href: https://x.com/xortizross
+      icon: twitter-x
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/xochitl-ortiz-ross/
+      icon: linkedin
+    - text: GitHub
+      href: https://github.com/xortizross
+      icon: github
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Xochitl-Ross
+    - text: GoogleScholar
+      href: https://scholar.google.com/citations?user=QbgA53gAAAAJ&hl=en&oi=ao
 ---
 
-About this site
+Ph.D. candidate in the Ecology and Evolutionary Biology department at UCLA in the [Blumstein Lab](https://blumsteinlab.eeb.ucla.edu). I am studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out [my latest paper](https://onlinelibrary.wiley.com/doi/10.1111/ele.14485)).
 
-```{r}
-1 + 1
-```
+I got my B.A. in Human Ecology at the College of the Atlantic.

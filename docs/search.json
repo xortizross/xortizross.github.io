@@ -1,44 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Xochitl Ortiz Ross",
+    "title": "Hi there! 👋",
     "section": "",
-    "text": "Hi there! 👋\nMy name is Xochitl (pronounced só-chill). I am a Ph.D. candidate in the Ecology and Evolutionary Biology department at UCLA in the Blumstein Lab. I am a behavioral ecologist studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out my latest paper)."
-  },
-  {
-    "objectID": "index.html#hi-there",
-    "href": "index.html#hi-there",
-    "title": "Xochitl Ortiz Ross",
-    "section": "",
-    "text": "My name is Xochitl (pronounced só-chill 🏝️). Preferred pronouns: she/they\nI am a Ph.D. candidate in the Ecology and Evolutionary Biology department at UCLA in the Blumstein Lab. I am a behavioral ecologist studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out my latest paper!)"
-  },
-  {
-    "objectID": "index.html#i-am-still-in-the-process-of-building-this-website-so-please-come-back-later",
-    "href": "index.html#i-am-still-in-the-process-of-building-this-website-so-please-come-back-later",
-    "title": "Xochitl Ortiz Ross",
-    "section": "🚧 I am still in the process of building this website, so please come back later! 🚧",
-    "text": "🚧 I am still in the process of building this website, so please come back later! 🚧"
-  },
-  {
-    "objectID": "index.html#roadwork-ahead",
-    "href": "index.html#roadwork-ahead",
-    "title": "Xochitl Ortiz Ross",
-    "section": "🚧 Roadwork ahead 🚧",
-    "text": "🚧 Roadwork ahead 🚧\n\n\n\nAI generated image"
+    "text": "My name is Xochitl (pronounced só-chill). I am a Ph.D. candidate in the Blumstein Lab. I am a behavioral ecologist studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out my latest paper)."
   },
   {
     "objectID": "index.html#work-in-progress-come-back-later",
     "href": "index.html#work-in-progress-come-back-later",
-    "title": "Xochitl Ortiz Ross",
+    "title": "Hi there! 👋",
     "section": "🚧 Work in progress, come back later! 🚧",
-    "text": "🚧 Work in progress, come back later! 🚧\n\n\n\nAI generated image"
+    "text": "🚧 Work in progress, come back later! 🚧\n\n\n\nAI-generated image"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Ph.D. candidate in the Ecology and Evolutionary Biology department at UCLA in the Blumstein Lab. I am studying the long-term consequences of early-life adversity in wild yellow-bellied marmots (check-out my latest paper).\nI got my B.A. in Human Ecology at the College of the Atlantic."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "AI-generated image"
+  },
+  {
+    "objectID": "research.html#work-in-progress-come-back-later",
+    "href": "research.html#work-in-progress-come-back-later",
+    "title": "Research",
+    "section": "",
+    "text": "AI-generated image"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nPhD candidate in Ecology and Evolutionary Biology | expected June 2026\nCollege of the Atlantic | Bar Harbor, ME\nB.A in Human Ecology | Sept 2014 - June 2018"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hi there! 👋",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nPhD candidate in Ecology and Evolutionary Biology | expected June 2026\nCollege of the Atlantic | Bar Harbor, ME\nB.A in Human Ecology | Sept 2014 - June 2018"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Hi there! 👋",
+    "section": "Research",
+    "text": "Research"
   }
 ]
